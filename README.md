@@ -1,9 +1,3 @@
-Of course! Based on the provided Python file, here is a comprehensive and professional README.md file for your GitHub repository. It explains all the features, provides setup instructions, and includes necessary warnings.
-
-Just copy and paste the content below into a file named `README.md` in your project's root directory.
-
----
-
 # Prodigy's Suite - Advanced Automation & Utility Tool
 
 <div align="center">
